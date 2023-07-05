@@ -12,7 +12,7 @@
 
 <h1 align="center">Descripcion del proyecto</h1>
 
-
+Conversor de divisas y temperaturas, herramienta para poder convertir cualquier divisa o temperatura a otra disponible.
 
 <h1 align="center"> 🛠️ Tecnologias utilizadas</h1>
 
