@@ -10,16 +10,19 @@
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-<h1 align="center">Indice</h1>
+<h1 align="center">Descripcion del proyecto</h1>
+
+
 
 <h1 align="center"> 🛠️ Tecnologias utilizadas</h1>
 
-*Java
-*Java swing
+* Java
+* Java swing
 
 <h1 align="center"> 👥 Personas desarrolladores del proyecto</h1>
 
-* Armanasco Franco 
+[<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda)
+* Armanasco Franco -> email : programmingarmanasco@gmail.com
 
 <h1 align="center"> 📁 Acceso al proyecto</h1>
 
