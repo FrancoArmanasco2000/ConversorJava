@@ -10,4 +10,16 @@
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-<em>#Descripcion del proyecto<em>
+<h1 align="center">Indice</h1>
+
+<h1 align="center"> 🛠️ Tecnologias utilizadas</h1>
+
+*Java
+*Java swing
+
+<h1 align="center"> 👥 Personas desarrolladores del proyecto</h1>
+
+* Armanasco Franco 
+
+<h1 align="center"> 📁 Acceso al proyecto</h1>
+
