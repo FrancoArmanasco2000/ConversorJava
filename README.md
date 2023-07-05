@@ -1,4 +1,4 @@
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green) /n
 ##Indice
 *[Descripción del proyecto](#descripción-del-proyecto)
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
