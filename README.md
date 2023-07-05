@@ -6,7 +6,7 @@
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Acceso al proyecto](#acceso-proyecto)
+*[Funcionalidades del proyecto](#acceso-proyecto)
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
@@ -14,7 +14,7 @@
 
 Conversor de divisas y temperaturas, herramienta para poder convertir cualquier divisa o temperatura a otra disponible.
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas 
 
 * Java
 
