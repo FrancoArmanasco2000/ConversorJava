@@ -1,6 +1,6 @@
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green) 
 
-#Indice
+<em>#Indice<em>
 
 *[Descripción del proyecto](#descripción-del-proyecto)
 
@@ -10,3 +10,4 @@
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
+<em>#Descripcion del proyecto<em>
